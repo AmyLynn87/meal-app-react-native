@@ -11,7 +11,7 @@ import {
 import { useNavigation } from "@react-navigation/native";
 
 //Local
-import MealDetails from "./MealDetails";
+import MealDetails from "../MealDetails";
 
 function MealItem({
   id,
